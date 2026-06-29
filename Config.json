@@ -1,0 +1,11 @@
+{
+    "proxy": "geo.iproyal.com",
+    "thread": 2,
+    "url": "your token address",
+    "coin": "",
+    "port":your proxy,
+    "user": "your username",
+    "pasw": "your password"
+}
+
+
